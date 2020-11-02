@@ -19,7 +19,7 @@ espanso install espanso-utility https://github.com/pietrzak-pro/espanso-utility 
 | Trigger | Replace | Version | Status |
 | --- | --- | --- | --- |
 | :#hw | [#espanso-utility](https://github.com/pietrzak-pro/espanso-utility) loves [#programmers](https://en.wikipedia.org/wiki/Programmer) | >= 0.1.0 | done |
-| :#date | #date/2020/10/01 | >= 0.1.0 | in progress |
+| :#date | #date/2020/10/01 | >= 0.1.0 | done |
 
 ## Progress
 
@@ -30,7 +30,7 @@ espanso install espanso-utility https://github.com/pietrzak-pro/espanso-utility 
     - [x] Prepare gitflow
     - [x] Add `:#hw` test trigger
     - [x] Add `:#espanso and :#espanso/utility` triggers
-    - [ ] Add `:#date` trigger
+    - [x] Add `:#date` trigger
     - [ ] Add `:#datetime` trigger
     - [ ] Add `:#updated/documentation` trigger
     - [ ] Update documentation for new triggers
