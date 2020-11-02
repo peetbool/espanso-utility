@@ -6,3 +6,11 @@ parent: default
 matches:
   - trigger: ":#hw"
     replace: "[#espanso-utility](https://github.com/pietrzak-pro/espanso-utility) loves [#programmers](https://en.wikipedia.org/wiki/Programmer)"
+
+  - trigger: ":#date"
+    replace: "#date/{{formatted}}"
+    vars:
+      - name: formatted
+        type: date
+        params:
+          format: "%Y/%m/%d"

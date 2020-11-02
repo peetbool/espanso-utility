@@ -19,6 +19,7 @@ espanso install espanso-utility https://github.com/pietrzak-pro/espanso-utility 
 | Trigger | Replace | Version | Status |
 | --- | --- | --- | --- |
 | :#hw | [#espanso-utility](https://github.com/pietrzak-pro/espanso-utility) loves [#programmers](https://en.wikipedia.org/wiki/Programmer) | >= 0.1.0 | done |
+| :#date | #date/2020/10/01 | >= 0.1.0 | in progress |
 
 ## Progress
 
